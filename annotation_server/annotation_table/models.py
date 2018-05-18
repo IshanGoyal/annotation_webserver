@@ -1,6 +1,7 @@
 from django.db import models
 
 # Create your models here.
+# These are just the basics from the slides
 class Sequence(models.Model):
     seq_name = models.CharField(max_length=200)
     blast = models.CharField(max_length=200)
