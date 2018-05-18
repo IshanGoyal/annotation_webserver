@@ -1,4 +1,4 @@
-# CSE182_Final
+# CSE182 Final Project
 Authors: Austin Crinklaw, Hanshin Lee
 
 ## Project 2: Gene Annotation Webserver
