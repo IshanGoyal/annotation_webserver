@@ -1,5 +1,5 @@
 # CSE182 Final Project
-Authors: Austin Crinklaw, Hanshin Lee
+Authors: Austin Crinklaw, Hanshin Lee, Ishan Goyal
 
 ## Project 2: Gene Annotation Webserver
 A simple web based database for gene annotations. Built using Django and Bootstrap.
